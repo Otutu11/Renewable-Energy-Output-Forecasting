@@ -1,0 +1,20 @@
+Renewable-Energy-Forecasting/
+├── data/
+│   ├── raw/
+│   │   └── energy_data.csv
+│   └── processed/
+├── models/
+├── notebooks/
+│   └── exploration.ipynb
+├── src/
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── train.py
+│   ├── predict.py
+│   ├── visualize.py
+│   └── evaluate.py
+├── config.py
+├── generate_sample_data.py
+├── run_pipeline.py
+├── requirements.txt
+└── README.md
