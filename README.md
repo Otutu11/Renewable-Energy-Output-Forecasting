@@ -152,4 +152,6 @@ Contact
 
 For questions or support:
 
-    GitHub: @Akajiaku1
+    GitHub: https://github.com/Otutu11
+    LinkedIn: https://www.linkedin.com/in/otutu-anslem-53a687359/
+    Author Name: Anslem Otutu
